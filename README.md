@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">A passionate a computer science student</h3>
+<h3 align="center">A passionate computer science student</h3>
 
 - 🔭 I’m currently working on [Companhia Energética de Minas Gerais - CEMIG](https://www.cemig.com.br)
 
