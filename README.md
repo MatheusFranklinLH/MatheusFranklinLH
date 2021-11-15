@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Companhia Energética de Minas Gerais - CEMIG](https://www.cemig.com.br)
 
-- 🌱 I’m currently learning **Pandas, Sci-Kit Learn, SQL and Javascript**
-
 - 📝 I'm pursuing my Bachelors in Computer Science at [Universidade Federal de Juiz de Fora - UFJF](https://www2.ufjf.br/ufjf/)
+
+- 🌱 I’m currently learning **Pandas, Sci-Kit Learn, SQL and Javascript**
 
 - ⚡ Fun fact [I love music and streetwear fashion](I love music and streetwear fashion)
 
