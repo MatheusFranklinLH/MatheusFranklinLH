@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Pandas, Sci-Kit Learn, SQL and Javascript**
 
-- ⚡ Fun fact [I love music and streetwear fashion](I love music and streetwear fashion)
-
 - 💬 Ask me about **C++, Python and Java**
 
 - 📫 How to reach me **matheusfranklinr@gmail.com**
+
+- ⚡ Fun fact: I love music and streetwear fashion
+
+- ✈️ I love traveling as well, I have been on a trip to ** Paris, London, Amsterdam and Brugge ** in 2020.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
