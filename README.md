@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [Vitau Automation](https://vitauautomation.com/)
+- 🔭 I’m currently working on [Vitau Automation](https://vitauautomation.com/) as a Full Stack Developer
 
 - 📝 I'm pursuing my Bachelors in Computer Science at [Universidade Federal de Juiz de Fora - UFJF](https://www2.ufjf.br/ufjf/)
 
