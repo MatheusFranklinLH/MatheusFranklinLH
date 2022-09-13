@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [Companhia Energética de Minas Gerais - CEMIG](https://www.cemig.com.br)
+- 🔭 I’m currently working on [Vitau Automation](https://vitauautomation.com/)
 
 - 📝 I'm pursuing my Bachelors in Computer Science at [Universidade Federal de Juiz de Fora - UFJF](https://www2.ufjf.br/ufjf/)
 
-- 🌱 I’m currently learning **Pandas, Sci-Kit Learn, SQL and Javascript**
+- 🌱 I’m currently learning **.Net, Angular, Pandas, Sci-Kit Learn**
 
-- 💬 Ask me about **C++, Python and Java**
+- 💬 Ask me about **C++, Python, Javascript, Typescript, C#, SQL**
 
 - 📫 How to reach me **matheusfranklinr@gmail.com**
 
