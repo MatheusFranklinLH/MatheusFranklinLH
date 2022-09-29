@@ -22,12 +22,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-- Typescript/Javascript
-- Angular
-- C#/.NET
-- Python
-- Pandas/Numpy/SciKit Learn
-- SQL/Postgres
-- Redis
-- MongoDb
-- C/C++
+<p> - Typescript/Javascript </p>
+<p> - Angular </p>
+<p> - C#/.NET </p>
+<p> - Python </p>
+<p> - Pandas/Numpy/SciKit Learn </p>
+<p> - SQL/Postgres </p>
+<p> - Redis </p>
+<p> - MongoDb </p>
+<p> - C/C++ </p>
