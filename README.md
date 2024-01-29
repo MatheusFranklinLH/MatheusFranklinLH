@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on [Vitau Automation](https://vitauautomation.com/) as a Full Stack Developer
+- 🔭 I’m currently working on [Vitau Automation](https://vitauautomation.com/) as a Full Stack Developer / Automation Developer Specialist
 
-- 📝 I'm pursuing my Bachelors in Computer Science at [Universidade Federal de Juiz de Fora - UFJF](https://www2.ufjf.br/ufjf/)
+- 📝 I have a bachelor's degree in Computer Science from [Universidade Federal de Juiz de Fora - UFJF](https://www2.ufjf.br/ufjf/)
 
-- 🌱 I’m currently learning **.Net, Angular, Pandas, Sci-Kit Learn**
+- 🌱 I’m currently learning **Unit Tests, Devops**
 
-- 💬 Ask me about **C++, Python, Javascript, Typescript, C#, SQL**
+- 💬 Ask me about **.NET, Domain Driven Development, SQL, NoSQL, AngularJS, RabbitMQ**
 
 - 📫 How to reach me **matheusfranklinr@gmail.com**
 
@@ -22,12 +22,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p> - C#/.NET </p>
+<p> - AWS (EC2, S3) </p>
+<p> - Clean Code </p>
 <p> - Typescript/Javascript </p>
 <p> - Angular </p>
-<p> - C#/.NET </p>
-<p> - Python </p>
-<p> - Pandas/Numpy/SciKit Learn </p>
 <p> - SQL/Postgres </p>
 <p> - Redis </p>
 <p> - MongoDb </p>
+<p> - RabbitMQ </p>
+<p> - Python </p>
 <p> - C/C++ </p>
